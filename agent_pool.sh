@@ -7,7 +7,7 @@
 ./config.sh --unattended \
   --url \
   --auth \
-  --token \
+  --token [dont commit to git] \
   --pool \
   --agent \
   --work \
