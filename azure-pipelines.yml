@@ -9,6 +9,6 @@ trigger:
 pool: ICP-AgentPool
 
 steps:
-- script: ./create.sh
+- script: bash ARM/create.sh
 
 
