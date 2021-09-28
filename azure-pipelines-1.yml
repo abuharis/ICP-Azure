@@ -13,3 +13,5 @@ steps:
   displayName: 'Run a one-line script'
   
 - script: echo `hostname`
+
+- script: bash ARM/create.sh
