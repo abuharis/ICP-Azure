@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: ICP-AgentPool
+pool: ICP-testPool
 
 steps:
 - script: echo Hello, world!
