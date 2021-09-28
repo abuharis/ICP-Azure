@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Create a RG to logically group resources using
 
 rg = ICP-RG
